@@ -1,0 +1,6 @@
+1.先在jsonserver文件夹里面,打开cmd终端 先安装依赖 npm install，
+安装完成后启动服务 npm run json:server 
+
+2.在my-customer文件夹里面，打开cmd终端 先安装依赖 npm install,
+安装完成后启动服务 npm run dev
+
